@@ -30,7 +30,7 @@ class Header extends Component {
                                 <li><a href="#"><i className="fa fa-twitter" /></a></li>
                                 <li><a href="#"><i className="fa fa-google-plus" /></a></li>
                                 <li><a href="https://www.linkedin.com/in/pradyoth-hegde-2a3431b0/"><i className="fa fa-linkedin" /></a></li>
-                                <li><a href="#"><i className="fa fa-instagram" /></a></li>
+                                <li><a href="https://www.instagram.com/pradyoth94/"><i className="fa fa-instagram" /></a></li>
                                 <li><a href="#"><i className="fa fa-dribbble" /></a></li>
                                 <li><a href="#"><i className="fa fa-skype" /></a></li>
                             </ul>
