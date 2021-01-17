@@ -49,8 +49,20 @@ class Resume extends Component {
                         <div className="nine columns main-col">
                             <div className="row item">
                                 <div className="twelve columns">
+                                    <h3>eBay</h3>
+                                    <p className="info">Software Engineer - II<span>•</span> <em className="date">Oct 2020 - Present</em></p>
+                                    <ul>
+                                        <li>Engineer working in the Identity Platform responsible all User related information on ebay.com</li>
+                                        <li>Subject matter expert for multiple micro-servies which serve traffic of over a billion requests in a day</li>
+                                        <li>Led the development effort which involved collaboration with internal teams and external clients to integrate with third party APIs</li>
+                                    </ul>
+                                </div>
+                            </div>
+                        <div className="nine columns main-col">
+                            <div className="row item">
+                                <div className="twelve columns">
                                     <h3>Grubhub</h3>
-                                    <p className="info">Software Engineer - II<span>•</span> <em className="date">Jan 2020 - Present</em></p>
+                                    <p className="info">Software Engineer - II<span>•</span> <em className="date">Jan 2020 - Oct 2020</em></p>
                                     <ul>
                                         <li>Interfaced with cross-functional team of business analysts, developers and senior leadership to determine comprehensive list of requirement specifications to Re-Architect existing legacy service.</li>
                                         <li>Led the previous development initiative as Subject Matter Expert and primary point-of-contact for leadership and operations staff.</li>
@@ -111,7 +123,7 @@ class Resume extends Component {
                                     <li><span className="bar-expand html5" /><em>Java</em></li>
                                     <li><span className="bar-expand photoshop" /><em>NoSQL Databases</em></li>
                                     <li><span className="bar-expand illustrator" /><em>Amazon SNS/SQS</em></li>
-                                    <li><span className="bar-expand wordpress" /><em>SQL Databses</em></li>
+                                    <li><span className="bar-expand wordpress" /><em>SQL Databases</em></li>
                                     <li><span className="bar-expand jquery" /><em>Python</em></li>
                                 </ul>
                             </div>{/* end skill-bars */}
