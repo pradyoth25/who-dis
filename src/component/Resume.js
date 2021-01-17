@@ -52,8 +52,8 @@ class Resume extends Component {
                                     <h3>eBay</h3>
                                     <p className="info">Software Engineer - II<span>•</span> <em className="date">Oct 2020 - Present</em></p>
                                     <ul>
-                                        <li>Engineer working in the Identity Platform responsible all User related information on ebay.com</li>
-                                        <li>Subject matter expert for multiple micro-servies which serve traffic of over a billion requests in a day</li>
+                                        <li>Engineer working in the Identity Platform responsible for all User related information on ebay.com</li>
+                                        <li>Subject matter expert for multiple microservices which serve traffic of over a billion requests in a day</li>
                                         <li>Led the development effort which involved collaboration with internal teams and external clients to integrate with third party APIs</li>
                                     </ul>
                                 </div>
