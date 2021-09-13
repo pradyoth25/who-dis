@@ -12,7 +12,7 @@ class About extends Component {
       <section id="about">
         <div className="row">
           <div className="three columns">
-            <img className="profile-pic" src="images/profilepic.jpg" alt="" />
+            <img className="profile-pic" src="images/prad_dp.jpg" alt="" />
           </div>
           <div className="nine columns main-col">
             <h2>About Me</h2>
@@ -30,7 +30,7 @@ class About extends Component {
               </div>
               <div className="columns download">
                 <p>
-                  <a href="Pradyoth_Resume.pdf" className="button" download> <i className="fa fa-download" />Download Resume</a>
+                  <a href="Resume_2021.pdf" className="button" download> <i className="fa fa-download" />Download Resume</a>
                 </p>
               </div>
             </div> {/* end row */}

@@ -29,6 +29,12 @@ class Testimonials extends Component {
                                                 <cite>Former Manager</cite>
                                             </blockquote>
                                         </li> {/* slide ends */}
+                                        <li>
+                                            <blockquote>
+                                                <p>Thanks Pradyoth for being you. You are proving your worthiness to the team with your ultra quick rampup, willingness to learn and adapt, helping in newer service design and mentoring other engineers in the team. Keep up your fantasic work</p>
+                                                <cite>Current Manager - eBay Spot Award - Dec 2020</cite>
+                                            </blockquote>
+                                        </li> {/* slide ends */}
                                     </ul>
                                 </div> {/* div.flexslider ends */}
                             </div> {/* div.flex-container ends */}
