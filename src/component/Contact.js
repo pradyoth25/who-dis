@@ -63,7 +63,8 @@ export default class Contact extends Component {
                                 <p className="address">
                                     Pradyoth Hegde<br />
                                     Chicago, IL <br />
-                                    <span>(224)-409-9709</span>
+                                    <span>(224)-409-9709 <br /></span>
+                                    <span>hegdepradyoth@gmail.com</span>
                                 </p>
                             </div>
 
