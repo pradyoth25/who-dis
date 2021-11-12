@@ -66,7 +66,7 @@ export default class Contact extends Component {
                 }, (error) => {
                     console.log(error.text);
                     // Popup.alert('Error boy');
-                    window.alert('Error boy');
+                    window.alert('Error boy!');
                 });
 
             return 
